@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(159, 43, 226);
+    font-family: sans-serif;
+}
+
+#title{
+    background-color: white;
+}
+
+#name{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    size: 50px;
+}
